@@ -19,7 +19,7 @@ body {
             border: 2px solid #000000
         }
 
-        photo {
+        .photo {
             float: left;
             width: 200px;
             margin-right: 20px;
@@ -27,7 +27,7 @@ body {
             border: 2px solid #000000
         }
 
-        info {
+        .info {
             float: right;
             width: 40px;
             background: #d6f5d6;
@@ -173,3 +173,4 @@ body {
             background-color: #d6eaf8;
             padding: 5px;
         }
+
