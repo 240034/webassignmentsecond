@@ -28,13 +28,16 @@ body {
         }
 
         .info {
-            float: right;
-            width: 40px;
+            display: inline-block;
+            vertical-align: top;
+            width: 250px;
             background: #d6f5d6;
             padding: 15px;
             border: 1px solid #000000;
             border-radius: 5px;
-        }
+            margin-left: 20px;
+}
+
 
         h2 {
             color: black;
@@ -173,5 +176,6 @@ body {
             background-color: #d6eaf8;
             padding: 5px;
         }
+
 
 
